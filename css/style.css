@@ -1,0 +1,59 @@
+* {
+    font-family: Arial;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f6f5f1;
+    margin: 0px;
+    padding: 0px;
+    padding-top: 10px;
+}
+
+
+#page_main {
+    background-color: #fff;
+	margin: 0px auto;
+    margin-top: 30px;
+	padding: 20px;
+    padding-top: 0px;
+	width: 92%;
+    min-height: 20px;
+	-webkit-box-shadow: 0 0 5px 0 #c5c4c2;
+	box-shadow: 0 0 5px 0 #c5c4c2;
+    border-radius: 5px 5px 5px 5px;
+}
+
+#page_header {
+    text-align: center;
+    min-height: 30px;
+    margin-bottom: 50px;
+    padding-top: 0px;
+}
+
+#page_header h1 {
+    font-size: 52px;
+    font-family: monospace;
+    color: #292828;
+    padding-top: 20px;
+}
+
+#page_header p {
+    color: #535353;
+    font-size: 16px;
+    margin: 0px auto;
+    margin-top: -20px;
+    padding: 0px;
+    width: 900px;
+}
+
+#page_body {
+    text-align: center;
+    margin: 0px auto;
+    margin-top: 10px;
+}
+
+#myCV {
+    width: 80%;
+    height: 850px;
+}
